@@ -1,0 +1,12 @@
+int:   para representar números enteros (ejemplo: 42)
+float:  para representar números con decimales (ejemplo: 3.14)
+str:   para representar cadenas de texto (ejemplo: "hola")
+bool:  para representar valores booleanos (verdadero o falso) (ejemplo: True o False)
+list:   para representar listas o arreglos de valores (ejemplo: [1, 2, 3])
+tuple:   para representar secuencias inmutables de valores (ejemplo: (1, 2, 3))
+dict:   para representar diccionarios o mapas de valores (ejemplo: {"clave": "valor"})
+set:   para representar conjuntos de valores únicos (ejemplo: {1, 2, 3})
+
+Estos son solo algunos de los tipos de datos básicos en Python, y puede haber otros tipos y estructuras de datos más avanzadas disponibles en librerías y paquetes externos.
+
+
